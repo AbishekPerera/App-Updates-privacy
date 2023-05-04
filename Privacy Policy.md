@@ -20,4 +20,4 @@ We use Google Analytics to collect anonymous usage data such as app crashes, app
 
 Access to App Update is restricted to Dbeeta Web Solutions company members only. Third-party members cannot register with this app.
 
-If you have any questions or concerns about our privacy policy, please do not hesitate to contact us at [support@appupdate.com](mailto:support@appupdate.com). We will be happy to answer any questions you may have.
+If you have any questions or concerns about our privacy policy, please do not hesitate to contact us at [info@dbeeta.it](mailto:info@dbeeta.it). We will be happy to answer any questions you may have.
